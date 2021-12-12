@@ -175,7 +175,7 @@ Until then, people like need a way to go back and forth between dollars and cryp
 
 > Did you say dollar-pegged crypto? Aren't you trying to get rid of fiat money? Aren't those centralized too?
 
-Yep, but the world won't change overnight. Some are "backed" by USD and equivalents similar to what a bank would do, but without fractional reserve banking and without FDIC insurance. Issuers like Tether and USDC have a lot of control to control their supply. Tether is incredibly sketchy, and this specific part of crypto could use regulations to ensure the centralized entity isn't doing anything shady. Algorithmic or crypto-collatoralized stablecoins however should probably be left alone and are more in the spirit of cryptocurrency in general. 
+Yep, but the world won't change overnight. Some are "backed" by USD and equivalents similar to what a bank would do, but without fractional reserve banking and without FDIC insurance. Issuers like Tether and USDC have a lot of control to control their supply. [Tether is incredibly sketchy](https://www.youtube.com/watch?v=-whuXHSL1Pg), and this specific part of crypto could use regulations to ensure the centralized entity isn't doing anything shady. Algorithmic or crypto-collatoralized stablecoins however are far more decentralized in general. 
 
 > But the ETH DAO hack? You mean a bunch of insiders can fix them losing money, but not others? That sounds centralized to me.
 

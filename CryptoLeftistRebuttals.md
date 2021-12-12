@@ -218,6 +218,12 @@ Kind of, it's complicated. Most blockchains are pseudo-anonymous in the way that
 
 However, there are some privacy chains and solutions that exist. I don't like that part about using cryptocurrency as an actual currency for real world use, but you may feel differently. Some things absolutely should be public, but not everything. [Here's a list of some of them if you're interested](https://www.coingecko.com/en/categories/privacy-coins), and I did another huge post a while back on the topic.
 
+> Ok, but when the collapse happens from X catastrophe or Y disaster. Your dumb little internet magic beans are going to be worthless! You probably won't even have an internet connection. Instead you should get valuable things like food, tools, and other necessities.
+
+Ultimately, yes. But the same will be true with any currency as well. I can't argue that having some preparedness for bad times is a good idea. 
+
+However, there is a world of gradient of future situations between our current systems and a Mad Max / Fallout economy. I also think the system more designed to connect humans with one another, regardless of geography, will stand up better to instability even if it is still vulnerable to such events. I don't know what the future holds, for good or ill. 
+
 ## Closing Thoughts
 
 If this post is any indication, it's that the [bullshit asymmetry principle](https://en.wikipedia.org/wiki/Brandolini%27s_law) is alive and well. I fully understand why folks on the left bashing a lot of the stuff that exists in the cryptocurrency ecosystem. There is a lot of easy, low hanging fruit to make fun of. Hopefully though you can understand why I think this is ultimately good for society and to think very hard about these narratives being pushed by those that have a lot to lose by the USD and other central bank currencies being taken out back and put down. Thanks for taking the time to better understand regardless of how you feel about everything now. 

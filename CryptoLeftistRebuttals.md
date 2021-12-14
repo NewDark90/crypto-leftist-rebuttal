@@ -12,7 +12,7 @@ However, it's also still a pretty decent visual to communicate political leaning
 
 I somewhat disagree. I do not think cryptocurrency is inherently right wing, but it is almost universally libertarian. Cryptocurrency and distributed ledger technology (DLT) is primarily about decentralization and majority consensus. Everyone participates in the same system, and it can change as long as the majority of the participants want it to. It is fundamentally democratic, even if it is not entirely evenly or perfectly democratic.
 
-![Political Compass - Crypto - My Opinion](./Political_Compass_Crypto.png)
+[Political Compass - Crypto - My Opinion](https://imgur.com/tBCKfzz.jpg)
 
 So, in my opinion:
 
@@ -28,7 +28,7 @@ One of the more frustrating things that I hear discussed about cryptocurrency go
 
 There isn't a perfect analogy for this, but I think it's similar to saying the same about automobiles, and then making every comparison to the Model T and/or the Hummer. The Model T for the reason that it's the first mass produced successful car and the Hummer due to it being a gas guzzling oversized beast. Comparing all cryptocurrencies to one single highly flawed version is missing the point in the same way. 
 
-![Coins and Dominance, Dec 2021](./CoinsAndDominance.png)
+[Coins and Dominance, Dec 2021](https://imgur.com/vFPHHcu.jpg)
 
 Note: I also understand that it's not fully unreasonable to look at the project with the most market-share and trying to understand it as a proxy for the rest of the space. This is especially true given the number of coins and tokens that exist today. 
 

@@ -28,9 +28,15 @@ One of the more frustrating things that I hear discussed about cryptocurrency go
 
 There isn't a perfect analogy for this, but I think it's similar to saying the same about automobiles, and then making every comparison to the Model T and/or the Hummer. The Model T for the reason that it's the first mass produced successful car and the Hummer due to it being a gas guzzling oversized beast. Comparing all cryptocurrencies to one single highly flawed version is missing the point in the same way. 
 
+Note: I also understand that it's not fully unreasonable to look at the project with the most market-share and trying to understand it as a proxy for the rest of the space. This is especially true given the number of coins and tokens that exist today. 
+
 [Coins and Dominance, Dec 2021](https://imgur.com/vFPHHcu.jpg)
 
-Note: I also understand that it's not fully unreasonable to look at the project with the most market-share and trying to understand it as a proxy for the rest of the space. This is especially true given the number of coins and tokens that exist today. 
+> Wait, so you're telling me there's several *thousands* of different crypto projects out there. How on earth is a typical individual going to get involved with that much upfront knowledge needed?
+
+That is a problem, but probably less than you would think. 
+
+Let's make a distinction up front between *coins* and *tokens*. A coin is basically a blockchain's native currency, and a token leverages an existing blockchain and can have special rules associated with how it functions. It is trivially simple to create a token in comparison to a coin. Given the barrier to entry is so low, many people have made their own tokens, most being fairly pointless. The ones that aren't usually have a pretty specific use case you would know if you care about. That still leaves a large amount of projects to consider, but it's not nearly so insurmountable. 
 
 ## Cryptocurrency is all fake
 
@@ -40,9 +46,9 @@ Well, I have a few issues with this. The most obvious of which is that any fiat 
 
 > But they have the physical money at the bank!
 
-Do they? Banks almost universally use what's called "fractional reserve banking", meaning that they only need to keep a portion of your money on hand. For reference in the United States, before 2020, *that number was 10%, and currently it is **0%***.
+Do they? Banks almost universally use what's called "fractional reserve banking", meaning that they only need to keep a portion of your money on hand. For reference in the United States, before 2020, _that number was 10%, and currently it is_ **0%**.
 
-***All** money is fake.*
+_**All** money is fake._
 
 ## Fiat Currency
 
@@ -50,7 +56,7 @@ Do they? Banks almost universally use what's called "fractional reserve banking"
 
 Here's the problem with that. That stance is basically one of two things. 
 
-1. I will accept the status quo of our current money system and implicitly accept it, whether or not I like it. 
+1. I will implicitly accept the status quo of our current money system, whether or not I like it.
 2. I hate money so much that I want to abolish the very concept and I refuse to participate as much as humanly reasonable (which is, ya know, fair).
 
 For those in the first camp: I'm of the opinion that our current system is far more exploitative, gives too much control to unelected bureaucrats, and implicitly also has far reaching environmental effects that aren't as simple to understand such as a soft peg on petroleum and funding the United States military. 
@@ -66,6 +72,12 @@ Here are some videos and articles related to some of the above. I urge you to at
 - [Worst Ponzi Ever! - Coin Bureau](https://www.youtube.com/watch?v=L_f6R0DHNH0) 
 - [The Deficit Myth - OneDime](https://www.youtube.com/watch?v=75udjh6hkOs)   
 - [How Petrodollars Affect the U.S. Dollar](https://www.investopedia.com/articles/forex/072915/how-petrodollars-affect-us-dollar.asp)
+
+> Ok, so fiat and the USD aren't my favorite, but I don't really hold much of it. Inflation, especially lately, means that I'd rather hold onto investments or assets anyway.
+
+Cryptocurrencies, for the most part, function more like assets. There are a handful that function very well as currencies though. Most function in ways that are deflationary or have very mild inflation baked it, and often yield interest for holding it. The crypto market is volatile and there is risk, but it does serve that asset-like function fairly well.
+
+I take issue with folks pointing to the stock market or other assets like housing. I think we shouldn't be incentivizing investing in companies, the primary organization of exploiting wage labor. I also don't like the idea of folks hording other assets that people might need such as the aforementioned housing. Having some savings existing on a decentralized ledger that encourages holding instead of consuming possibly unnecessary things is a decent solution under current systems.
 
 ## Energy Consumption - Proof of Work
 
@@ -190,11 +202,27 @@ You can still live in that world, it's called Ethereum Classic. Ethereum forked 
 
 *Things can be always be changed as long as there is social consensus to do so.*
 
-## DAOs?
+## Smart Contracts
+
+> Alright, so you have money on a blockchain where the rules are more democratically controlled. I don't see how that solves much.
+
+I've alluded to this on the edges of the entire post, but the money is programmable! Here's where the real value proposition comes in for why we should even care. Smart contracts exist as code on the blockchain that can execute in an immutable and trustless way. This is where DeFi, tokens, NFTs, Governance / Voting, and basically anything interactive happens on a blockchain. Typically these smart contracts are turing complete, so you could develop roughly anything within the scope of some extra blockchain rules and limitations.
+
+Here's a simple example, GoFundMe, but as a smart contract. I want to try to fund raise for a project to build a dog park in my neighborhood. I could write the contract to accept payments, and if the goal is met before a specified time frame, send the balance to me or a shared multi-signature wallet with other folks involved. If the goal isn't met then automatically refund everyone who submitted funds. 
+
+You could even incentivize people by giving people tokens (in the same or probably different contract) based on their contribution. The tokens might give them voting rights for what to do with the park. Maybe it's representative of partial ownership. Maybe token owners get some NFTs with image of the dog park. Maybe it's just a unique token without much purpose as a thank you gesture. 
+
+There's potentially a ton of cool use cases that haven't been realized yet.
+
+## DAOs? DisCOs?
 
 > What's a DAO though?
 
 It is a Decentralized Autonomous Organization. The word Autonomous is a little misleading, most are not, but they can be fully or partly. In short, it's taking the concept of an organization like a government, corporation, charity, enthusiast group, or similar and flattening the power structure. These are held together with the glue of decentralized funding, voting, and other tools to coordinate much larger groups of people more equally than ever before. 
+
+> What about a DisCO?
+
+A Distributed Cooperative, is basically exactly what it sounds like. It is a subset of DAOs that functions like a worker cooperative. 
 
 DAOs, in my opinion, are going to be one of the biggest game changers and best things to happen for society and people at large. If you've heard of [Dunbar's number](https://en.wikipedia.org/wiki/Dunbar%27s_number), this is how we can better overcome this limitation. This new way of organizing could change the minds of some Auth-Left folks that think we need strong top-down organizations to ensure an equitable society. This concept is still quite new, but I strongly consider you try joining some DAOs if anything out there exists that speaks to you. 
 
@@ -206,11 +234,19 @@ Here's the thing, it's because **decentralized technology is primarily about cut
 
 You aren't going to see anything terribly "new" here, and that's the wrong expectation in my opinion. What's revolutionary is the ability to use internet based services and technology in a way that cuts out powerful centralized entities and corporations that are exploiting users for profit directly or indirectly. Some of these are going to be easier to implement and get right, some may never fully be workable enough. Even if some decentralized versions of a service can't usurp a centralized one, the threat of one could keep the large power structures working honestly for fear of losing that power.
 
+> Ok, but you're saying that you want cryptocurrency to replace fiat currencies in a new financial system right? Couldn't the governments and corporations just not accept it? What will you do then?
+
+I think fully replacing it might be a valid long term goal, but I don't think it's the only goal or even the most important one. As long as the concept of a nation-state exists, many will still want to create and manage their own fiat money or Central Bank Digital Currency (CBDC). As long as converting to and from fiat currencies where needed is fairly painless, people can hold onto crypto and exchange it when needed. Adoption isn't a binary, and I just think more would be generally better. 
+
 > But aren't we supposed to become a stateless, classless, **moneyless** society? Marx said that and I like that dude.
 
 Yeah Karl is really cool and I basically agree. Here's the deal. Decentralized money and organizing helps to subvert state power, and to a smaller extent class power. I don't think Marx could have envisioned this specific kind of money from his time and the implications of it. To him, I would assume it's an extension of state and corporate power and from that perspective I agree. 
 
 Here's the thing though. We don't and can't just get rid of money overnight. I also don't think completely removing the concept of a "medium of exchange" is a good thing either as it does simplify a lot of human coordination. If you are still in the camp of getting rid of money, I still think this is one step closer to that goal even if it is technically adopting a different form of money.
+
+> This is all pretty complicated and expects people to know a lot of things. 
+
+Yes, in its current form anyway. It's complicated and challenging for the average person. I think over time the barriers to entry and risks will be consistently lessened. Younger people are going to pick up on it quicker and it will be far more normalized. It's not for everyone right now, and that's ok.
 
 > People think crypto is private but I heard it isn't. You mean people can just track my history even easier now?
 
@@ -223,6 +259,12 @@ However, there are some privacy chains and solutions that exist. I don't like th
 Ultimately, yes. But the same will be true with any currency as well. I can't argue that having some preparedness for bad times is a good idea. 
 
 However, there is a world of gradient of future situations between our current systems and a Mad Max / Fallout economy. I also think the system more designed to connect humans with one another, regardless of geography, will stand up better to instability even if it is still vulnerable to such events. I don't know what the future holds, for good or ill. 
+
+> I can't help but wonder if all of the time, energy and passion people pour into this technology would be better spent on direct action?
+
+Possibly, probably even. The shifting to these systems are a more subtle way of undermining leverage large institutions have over people. By having people work more closely with one another, and in ways that are easier to rely on each other, the average person can be in a more secure place to agitate for systemic change. Also, some folks are going to have skillsets that will align with building these kinds of systems. I feel like not using that talent would be a waste. 
+
+I caution against ignoring these technologies as others will certainly step in to shape them to reflect their values in your absence. While I can't be sure, it doesn't seem like it will be fading away anytime soon.
 
 ## Closing Thoughts
 

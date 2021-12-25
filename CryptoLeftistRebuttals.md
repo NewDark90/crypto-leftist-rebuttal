@@ -269,3 +269,12 @@ I caution against ignoring these technologies as others will certainly step in t
 ## Closing Thoughts
 
 If this post is any indication, it's that the [bullshit asymmetry principle](https://en.wikipedia.org/wiki/Brandolini%27s_law) is alive and well. I fully understand why folks on the left bashing a lot of the stuff that exists in the cryptocurrency ecosystem. There is a lot of easy, low hanging fruit to make fun of. Hopefully though you can understand why I think this is ultimately good for society and to think very hard about these narratives being pushed by those that have a lot to lose by the USD and other central bank currencies being taken out back and put down. Thanks for taking the time to better understand regardless of how you feel about everything now. 
+
+
+**Edit 1**: 
+
+- Formatting coin + token clarification 
+- Inflation 
+- Smart Contracts Section 
+- DisCOs 
+- 3 "Other Issues" points
